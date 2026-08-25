@@ -42,7 +42,11 @@ Student Grade Calculator mini-project
 
 ## Module 2
 
-Coming soon.
+**Day 5 – Day 8 · Beginner**
+
+A practical Python project applying fundamental programming concepts through a command-line Expense Tracker.
+ **[View Module 2 →](https://github.com/insharah-irshad/AI_ML_CodoMax_Internship/tree/main/Module2)**
+
 
  View Module 2
 
