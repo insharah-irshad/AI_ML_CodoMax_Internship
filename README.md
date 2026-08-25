@@ -38,7 +38,7 @@ Functions
 Beginner Python programs
 Student Grade Calculator mini-project
 
-View Module 1 (./Module1/)
+[View Module 1 ](./Module1/)
 
 ## Module 2
 
