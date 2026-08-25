@@ -40,17 +40,17 @@ Student Grade Calculator mini-project
 
 View Module 1 (.\Moudle1)
 
-Module 2
+## Module 2
 
 Coming soon.
 
  View Module 2
 
-Module 3
+## Module 3
 
 Coming soon.
 
-View Module 3
+## View Module 3
 
 Module 4
 
