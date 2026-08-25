@@ -47,14 +47,16 @@ Student Grade Calculator mini-project
 A practical Python project applying fundamental programming concepts through a command-line Expense Tracker.
  **[View Module 2 →](https://github.com/insharah-irshad/AI_ML_CodoMax_Internship/tree/main/Module2)**
 
+## Module 3 
 
- View Module 2
+**Level:** Intermediate  
+**Duration:** Day 9 – Day 12
 
-## Module 3
+This module focuses on working with datasets using Python and performing basic data analysis and visualization.
 
-Coming soon.
+**[View Module 3 →](./Module3/)**
 
-## View Module 3
+**[View Module 3 Notebook →](./Module3/CodoMax_Module3_Data_Analysis_Visualization.ipynb)**
 
 Module 4
 
