@@ -12,7 +12,8 @@ AI_ML_CodoMax_Internship/
 ├── Module1/
 ├── Module2/
 ├── Module3/
-└── Module4/
+├── Module4/
+└── Module5/
 
 ```
 # Modules
@@ -57,6 +58,7 @@ This module focuses on working with datasets using Python and performing basic d
 **[View Module 3 →](./Module3/)**
 
 **[View Module 3 Notebook →](./Module3/CodoMax_Module3_Data_Analysis_Visualization.ipynb)**
+
 ## Module 4 — Machine Learning Fundamentals
 
 **Day 13 – Day 16 · High**
