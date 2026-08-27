@@ -57,12 +57,36 @@ This module focuses on working with datasets using Python and performing basic d
 **[View Module 3 →](./Module3/)**
 
 **[View Module 3 Notebook →](./Module3/CodoMax_Module3_Data_Analysis_Visualization.ipynb)**
+## Module 4 — Machine Learning Fundamentals
 
-Module 4
+**Day 13 – Day 16 · High**
 
-Coming soon.
+This module introduces the fundamentals of Machine Learning using Python and Scikit-learn.
 
-View Module 4
+The project uses the **Iris Flower Classification** dataset to build and evaluate a beginner-friendly Machine Learning classification model.
+
+### What I Learned
+
+- Basic Machine Learning workflow
+- Loading and exploring datasets
+- Features and target variables
+- Train-test split
+- Machine Learning model training
+- K-Nearest Neighbors (KNN)
+- Making predictions
+- Model accuracy
+- Confusion matrix
+- Classification report
+- Prediction visualization
+
+### Technologies & Libraries
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Google Colab
 
 ## Technologies
 Python
