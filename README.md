@@ -12,8 +12,7 @@ AI_ML_CodoMax_Internship/
 ├── Module1/
 ├── Module2/
 ├── Module3/
-├── Module4/
-└── Module5/
+└── Module4/
 
 ```
 # Modules
@@ -58,7 +57,6 @@ This module focuses on working with datasets using Python and performing basic d
 **[View Module 3 →](./Module3/)**
 
 **[View Module 3 Notebook →](./Module3/CodoMax_Module3_Data_Analysis_Visualization.ipynb)**
-
 ## Module 4 — Machine Learning Fundamentals
 
 **Day 13 – Day 16 · High**
@@ -97,6 +95,47 @@ The project uses the **Iris Flower Classification** dataset to build and evaluat
 This module focuses on exploring AI tools and building a practical AI-powered application using Python and the Google Gemini API.
 
 The project is an **AI Text Summarizer** that uses Gemini to generate concise summaries from user-provided text.
+
+## ## Module 6 — Final AI & ML Project
+
+**Day 21 – Day 24 · High Priority**
+
+This module focuses on applying the AI and Machine Learning skills learned throughout the internship to build a complete end-to-end Machine Learning project.
+
+The project is an **AI Student Performance Predictor** that uses a Linear Regression model to predict a student's expected final score based on study hours, attendance, previous academic score, assignment completion, and sleep hours.
+
+### What I Built
+
+- Created and explored a student performance dataset
+- Performed feature and target selection
+- Applied train-test splitting
+- Trained a Linear Regression model
+- Generated student performance predictions
+- Evaluated the model using MAE, RMSE, and R² Score
+- Saved the trained model using Joblib
+- Built an interactive Streamlit web application
+- Added student input controls and performance visualization
+- Created a complete project README and documentation
+
+### Model Performance
+
+- Training Samples: 160
+- Testing Samples: 40
+- MAE: 3.36
+- RMSE: 4.38
+- R² Score: 0.86
+
+### Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Joblib
+- Streamlit
+
+[View Module 6 →](./Module6/AI_Student_Performance_Predictor/)
 
 ### What I Learned
 
