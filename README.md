@@ -88,6 +88,45 @@ The project uses the **Iris Flower Classification** dataset to build and evaluat
 - Scikit-learn
 - Google Colab
 
+## Module 5 — AI Tools & Mini Project
+
+**Day 17 – Day 20 · High**
+
+This module focuses on exploring AI tools and building a practical AI-powered application using Python and the Google Gemini API.
+
+The project is an **AI Text Summarizer** that uses Gemini to generate concise summaries from user-provided text.
+
+### What I Learned
+
+- Exploring AI tools for coding, research, and productivity
+- Working with the Google Gemini API
+- Integrating AI capabilities into a Python application
+- Writing effective prompts
+- Generating AI-powered text summaries
+- Handling API responses and errors
+- Using environment variables for API keys
+- Building an interactive command-line AI application
+
+### Project: AI Text Summarizer
+
+The application allows users to:
+
+- Enter multi-line text
+- Choose a summary length
+- Generate AI-powered summaries
+- Get short, medium, or detailed summaries
+
+### Technologies & Libraries
+
+- Python
+- Google Gemini API
+- Google GenAI SDK
+- Environment Variables
+
+**[View Module 5 →](./Module5/)**
+
+**[View AI Text Summarizer →](./Module5/AI_Text_Summarizer/)**
+
 ## Technologies
 Python
 Git
